@@ -54,12 +54,12 @@ You can click the Preview link to take a look at your changes.
 <meta type="application/js+as3" />
 </head>
 <body>
-<div><p><a>- 👋 Hi, I’m @patriceasoffea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+<div><p><a>- 👋 Hi, I’m @patriceasoffea<br>
+- 👀 I’m interested in ...<br>
+- 🌱 I’m currently learning ...<br>
+- 💞️ I’m looking to collaborate on ...<br>
+- 📫 How to reach me ...<br>
+- 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...</a></p></div>
 </body>
 </html>
